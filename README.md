@@ -268,4 +268,4 @@ This repository serves as the official landing page for Daemon Tools. The softwa
 **Get the most recent version of Daemon Tools today!**
 
 ---
-**Last updated:** 2026-09-20 11:06:56 UTC
+**Last updated:** 2026-09-20 15:48:19 UTC
